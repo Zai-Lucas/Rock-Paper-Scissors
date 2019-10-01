@@ -1,6 +1,7 @@
 #Isaiah Lucas
 #Rock, Paper, Scissors
 #RPS6.py
+# added comment for gh
 import random
 # Variables
 pScore = 0
